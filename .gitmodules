@@ -1,0 +1,3 @@
+[submodule "underscore"]
+    path = include/underscore
+    url = git://github.com/jashkenas/underscore.git
