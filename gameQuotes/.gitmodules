@@ -1,0 +1,3 @@
+[submodule "underscore"]
+    path = gameQuotes/underscore
+    url = https://github.com/jashkenas/underscore.git
